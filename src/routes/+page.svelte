@@ -18,7 +18,7 @@
 </div>
 
 <div class="card card-side bg-base-200 shadow-xl max-w-3xl max-h-48 my-4 mx-auto">
-	<figure><img src="./stopwatch.webp" class="max-h-48" alt="Stopwatch" /></figure>
+	<figure><img src="/images/stopwatch.webp" class="max-h-48" alt="Stopwatch" /></figure>
 	<div class="card-body items-center">
 		<h4 class="card-title">Add new task</h4>
 		<input placeholder="Name" bind:value={name} class="input" />
