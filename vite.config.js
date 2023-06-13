@@ -4,6 +4,6 @@ import { defineConfig } from 'vite';
 export default defineConfig({
 	plugins: [sveltekit()],
 	paths: {
-		base: '/docs'
+		base: '/CoreTimer/docs'
 	}
 });
